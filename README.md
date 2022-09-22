@@ -17,7 +17,7 @@ Graduate in Software Engineering in France 15+ years of professional experience 
 - [Fix bugs in your WordPress Site](https://jordifernandes.com/service/fix-bugs-in-your-wordpress-site/)
 
 ### Contact Me
-- Web: [jordifernandes.com](https://jordifernandes.com)
+- Web: [jordifernandes.com/contact](https://jordifernandes.com/contact/)
 - LinkedIn: [@jfadev](https://www.linkedin.com/in/jfadev/)
 - Twitter: [@jfadev](https://twitter.com/jfadev)
 
