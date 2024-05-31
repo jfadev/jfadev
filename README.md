@@ -4,7 +4,7 @@
 ### About Me
 
 Software Engineer and Web Developer since 2006. 
-Graduate in Software Engineering in France 15+ years of professional experience in Web Technologies.
+Graduate in Software Engineering in France 18+ years of professional experience in Web Technologies.
 
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,symfony,php,vue,js,nodejs,express,docker,mysql,postgres,redis,sqlite,mongodb,bash,nginx,git,github,gitlab,html,css,sass,md,py,wordpress,jquery,bootstrap,aws,azure,cloudflare&perline=10)](https://skillicons.dev)
