@@ -21,7 +21,7 @@ Graduate in Software Engineering in France 18+ years of professional experience 
 ### Contact Me
 - Web: [jordifernandes.com/contact](https://jordifernandes.com/contact/)
 - LinkedIn: [@jfadev](https://www.linkedin.com/in/jfadev/)
-- Twitter: [@jfadev](https://twitter.com/jfadev)
+<!-- - Twitter: [@jfadev](https://twitter.com/jfadev) -->
 
 
 
